@@ -1,5 +1,43 @@
 # log
 
+## 2026-07-11
+
+本日のsleep scoreは 98 だった. 非常に調子が良い。
+
+今日のcaffeine
+
+- 14:30 tully's 183.3mg
+- 16:00 猿田彦コーヒー 多分120mg くらい
+- 19:30 紙コップ1杯 約80mg
+
+計 380 mg
+
+動作に問題はないが、このところmacのmemory pressureがずっと80%以上で気になっていたので、CodeXに調べさせてみた。
+結果としてしては、dasd(mac os system)が41 GB近く使っていたらしい（勿論swapしている）.
+chromeが18 GB使っているのは、仕方ない気もするが、dasd の41 GBは使いすぎな気がする。
+17日間ほど起動し続けていたことによって色々と問題が起こっていそう。
+そもそもdasdが何かよく分かっていなかったが、Duet Activity Schecular Daemonの略で、macOSのバックグラウンド・タスクスケジューラとのこと。
+どうやらmacOS 27のbetaを使っていることが原因のよう。
+software updateを確認するとbeta ver. 3が来ていたので、再起動のついでにアップデートすることにした。
+tetheringで17 GBのdownloadをするのは少々気が引ける。
+
+全然関係ないけれど、wi-fi tetheringは、口語で、mobile / personal hotspot と呼ぶ方が一般的らしい。
+e.g., "I don't really wanna download a 17 GB update over my mobile hotspot."
+
+ballpark: くだけて「概算」の意味らしい。初耳。be in the ballpark で、<見積もりなどが>ほぼ正しい、の意。
+
+髪を切りに原宿へ出かけた。
+JR原宿駅の改修工事はもう直ぐ終わりそうだった。完成が楽しみ。
+原宿は広い空と賑やかな人通りで、歩いているだけで面白い。
+
+shibuya stream <-> shibuya sakura-stage の歩道橋が完成していた。渋谷の再開発も着々と進んでおり、完成が待ち遠しい。
+
+public "log" repositoryの布教。
+次世代のsnsは、threadでもmastodonでもなくgit remote なのかもしれない。
+
+とりあえず、logが三日以上続いているので、三日坊主は回避した。
+続けることが優先事項であることを考えると、明らかに文量が多いなと薄々気がついている今日此の頃。
+
 ## 2026-07-10
 
 今日のcaffeine
