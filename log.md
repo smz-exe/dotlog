@@ -1,5 +1,28 @@
 # log
 
+## 2026-07-16
+
+sleep score: 73.
+今日はdurationではなく, interruptionsが足を引っ張った。
+
+今日のcaffeine:
+
+- 08:50 tully's 183mg
+- 15:00 starbucks tall (350mL) 158mg
+
+計 341mg
+
+銀座のitoyaに寄った際、ふとショーケースを覗くと、10年前にこの場所で祖父に買ってもらったのと全く同じromeoのボールペンが, 当時と同じように置いてあった。
+
+vnlが熱い。日本連勝が続いている。undefeated! 明日のベルギー戦も頑張って欲しい!
+
+日本時間、明日朝に、[starship's 13th flight test](https://www.spacex.com/launches/starship-flight-13) が控えている。
+SpaceX IPO 後初のstarship flight testで、プレッシャーが相当かかるとは思うが、期待してます.
+
+My friend mentioned me by name in [his public diary](https://github.com/k2co3-0803-n/log/commit/27436698e0b66ae0aefcddf9b610c7b46850e684).
+So, I suppose the pact is public now. I have to write, and of course, I have to keep writing.
+See you here in fifty or sixty years.
+
 ## 2026-07-15
 
 sleep score 79. 微妙なスコアが続いている。
