@@ -1,5 +1,33 @@
 # log
 
+## 2026-07-19
+
+sleep score: 81. ここのところずっと微妙な値が続いてる。
+
+今日のcaffeine:
+
+- 10:45 120mL 48mg
+- 13:44 starbacks grande 216mg
+
+計 264mg
+
+今日知った表現:
+
+- rasterization: convert (an image) into pixels. ドット絵にする、的な. computer graphics 用語.
+
+[Proof of Fermat Last Theorem FROM SCRATCH](https://www.youtube.com/watch?v=9f-hGSh8lF0) というタイトルの動画をたまたま見つけた。
+8h55m no-editの解説動画. 半端じゃない。
+
+hardforkの先週の回を聞いていて、
+“LOL, I found out I can access the [network storage], so funny.”
+という引用に対して、
+
+> 'If you say LOL in a message, you should not add so funny.'
+> 'Yes. Omit needless words.'
+
+というやりとりをしていて面白かった.
+草にwを生やすな、に近いinternet slangが英語圏にもあるのかな、と思った。
+
 ## 2026-07-18
 
 sleep score: 73. no comment
