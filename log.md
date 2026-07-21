@@ -1,5 +1,31 @@
 # log
 
+## 2026-07-21
+
+sleep scoreは低かったが、アラームより早く目が覚めた。珍しく目覚めが良い。
+
+予定等で、参加者を書くときに `<task> w/ <name>`とするのをよく見かけるが、なぜ w. ではなくて w/ なのか疑問に思っていた。
+
+GPT曰く、速記における慣用的な書き方らしい。
+
+- with -> w/
+- without -> w/o
+- between -> b/w
+- not applicable -> n/a
+- care of -> c/o
+
+なるほど, 確かに. N/Aに関しては、見慣れていたせいか気にしていなかったものの、これも速記由来の表現だったのかと謎の納得感を覚えた.
+
+[Vibey Kpop UKG & House Mix (06:01)](https://www.youtube.com/watch?v=ZzSSha68kIE&t=241s)
+この, nujabesのfeatherにtransitionする部分が何回聴いても飽きない。凄く聴き心地が良い.
+
+software engineering(授業)の最終プレゼン無事終わった. 良いチームだった.
+
+昨日から LINKIN PARK の "Breaking the Habit" がずっと脳内再生されている. 自ずとやる気が湧いてくる.
+
+友人がUSに飛びたった.
+have a nice flight :)
+
 ## 2026-07-20
 
 昼頃、大阪から東京に戻ってきた.
