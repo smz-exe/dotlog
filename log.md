@@ -1,5 +1,13 @@
 # log
 
+## 2026-08-18
+
+今日はinogate osakaに来ていた.
+umekita parkを一望できて、非常に眺めが良い場所だった.
+
+1on1で最近の進捗報告をし、次に試してみる事項がclearになった.
+やっぱりtransformerは興味深い. black box過ぎる.
+
 ## 2026-08-17
 
 今朝はgrand green osaka, umekita parkあたりを散歩していた。
