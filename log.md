@@ -1,5 +1,17 @@
 # log
 
+## 2026-08-20
+
+WSJの[この記事](https://www.wsj.com/tech/ai/ai-math-riemann-hypothesis-anthropic-openai-22f98a87)を読んでいると、
+
+> “I mostly just told Claude variations of keep going and believe in yourself,” Sumner says.
+> It sounds like Ted Lasso talking to AI. And it worked!
+
+という一節が出てきた. Ted Lassoシリーズが好きだったので、意味が分かって嬉しかったが、それにしてもUSでは Ted Lasso が非常に人気らしい.
+たしかworld cup決勝half timeでjustine bieberが出てくる前にもTed Lassoが登場していた気がする.
+nicheなApple TVのsubscriptionでしか見られない1タイトルなのに,,, apple製品を買えば、大体apple tv 1年分のサブスクがついてくるので、それで見ているのかな、などとどうでも良いことを考えていた。
+兎も角、今やっている新seasonも非常に面白い.
+
 ## 2026-08-19
 
 kitte osakaには曳家された旧中央郵便局が一部保存されていることは前々から知っていた[nikkei xtech](https://xtech.nikkei.com/atcl/nxt/mag/na/18/00012/101700072/).
