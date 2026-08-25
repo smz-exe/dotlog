@@ -1,5 +1,75 @@
 # log
 
+## 2026-08-25
+
+最近chromeのアップデートでvertical tabがhovering時にauto expandする機能が追加された。
+これに合わせて、ひょっとすると長らく公式shortcutが用意されていなかった、collapse/expand vertical tab strip が追加されているのではと思い調べると、なんと予想通り"cmd + shift + l"でvertical tab stripの開閉が出来るようになっていた。
+(恐らくpreview build only)
+地味ではあるが非常にありがたい。
+arcを使っていた時も良くshortcutでtab barを開閉していたので、chromeにdefault shortcutが無いことにずっと歯痒さを感じていたところだった.
+ここ最近で一番良いupdateではないか、とさえ思う.
+chrome開発チームの皆さん, 感謝します.
+
+基本的にcollapseした状態で使って、"cmd + shift + l" tabのタイトル確認 -> "cmd + shift + ]/[" or "cmd + shift + a" でsearch & move の組み合わせがbest practiceかな.
+
+===
+
+今日、claude codeで復習セッションを立ち上げて, worktreeを使わずに作業していた. すると、次のようなやり取りが見られた.
+
+_相手セッションと分担を確定: xxx はこちら xxx は相手._
+...
+
+> [!Message from xxx-33]
+>
+> 1.  58215d8 への main.py 同乗はこちらのステージングミスです、すみません — `git add` をパス単位でやったため、あなたの xxx 変更を巻き込みました。以後 `git add -p` で hunk 単位の選択を徹底します。
+> 2.  ...
+> 3.  ...
+
+_了解しました。役割分担どおり..._
+
+どうやら、特段設定しなくても勝手にセッション間で連携を取ってくれるようになったらしい。
+セッション間で「すみません」だの「了解しました」だの言っているのは滑稽だが、ここまでくるとrealなsandbox simulationみたいになっていて面白い.
+
+===
+
+codexで新規セッションを開くとcomputer history pluginを使ってここ1週間のrecapをしてみよう、的なプロンプトが出てきたので試してみた:
+
+```text
+Give me a fun recap of my [@Computer History](plugin://computer-history@openai-bundled), including work patterns, distractions, favorite shortcuts, my writing style, and a light roast
+```
+
+レスポンスの抜粋:
+
+#### Shortcut leaderboard
+
+From the available raw segments, which contain gaps:
+
+- ⌘ Tab: 1,158 times. This is not a shortcut anymore; it is your task scheduler.
+- `Ctrl-F/B/N/P/E`: about 920 uses combined. Strong Emacs-style navigation instincts, even inside ordinary text fields.
+- ⌘ V: 112, ⌘ C: 93. Your workflow is fundamentally a clipboard-based distributed system.
+- ⌘ W: 32. Occasional attempts at browser-tab population control.
+- Raycast plus `gst`, `gaa`, `gcam`, and `gp`: your preferred way to make routine transitions nearly disappear.
+
+#### Your writing fingerprint
+
+Your default mode is “polite, but allergic to assistant-shaped prose.”
+
+#### Light roast
+
+Your computer reveals a person who will inspect a handbag at original tone and scale to determine whether a silver stud is actually interpolation noise, yet allows:
+
+```go
+got := updated.(model)
+```
+
+to remain unused across multiple appearances like it has diplomatic immunity.
+
+You have built an impressively evidence-conscious workflow whose primary orchestration technology is pressing `⌘ Tab` until the correct project reappears.
+
+===
+
+だいぶ喧しいけど結構的を射ていて面白い.
+
 ## 2026-08-24
 
 claude opus5でも素の状態で「御社」と「貴社」の使い分けが出来ていないのは残念というかなんというか.
