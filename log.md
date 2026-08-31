@@ -1,5 +1,20 @@
 # log
 
+## 2026-08-31
+
+[Tim Henson - Original Sin](https://www.youtube.com/watch?v=po4GAzP0kHU)のコメント欄で
+
+> I Didn't expect Tim Henson to collab with the Tattooed guitarist in Polyphia
+
+とあって思わず笑ってしまった.
+
+今日は研究室で雑談なり研究なり1on1なりしていた。
+やはり、声に出すと考えていたアイデアが少し具現化するように思う。
+
+研究室を出た後は、代官山に向かい、食事を済ませた後、またcafeで作業再開.
+
+夏らしいことをしないままに、8月が終わってしまった. Time flies...
+
 ## 2026-08-30
 
 朝は近くのcafeで作業開始.
