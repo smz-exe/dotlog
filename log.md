@@ -1,5 +1,10 @@
 # log
 
+## 2026-09-01
+
+ちょっとcaffeineを取りすぎて午後は視界が揺れていた.
+部屋の大掃除をして気分はすっきりした。
+
 ## 2026-08-31
 
 [Tim Henson - Original Sin](https://www.youtube.com/watch?v=po4GAzP0kHU)のコメント欄で
