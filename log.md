@@ -1,5 +1,16 @@
 # log
 
+## 2026-09-18
+
+chromeのprofileを屡々切り替えることがあるのだが、その度にGUIで操作する必要があって煩わされていた。
+keyboard shortcutは無いものか、とgptに聞いてみたところ、defaultのshortcutは用意されていないが、raycastで"Google Chrome Profile"というextensionを入れればokと教えてもらった。
+早速試したが、本当に便利で感動している。raycast経由でprofileをswitch出来るようになるだけだが、とても気に入った。
+とりあえずctl + opt + pに割り当てておいた。
+元々、Google Chromeのextensionはraycastに入れていたが、profile関連は別途用意されていたとは,,
+また一つ、どうでも良いproductivity hackが生まれた.
+
+no life, no yak shaving.
+
 ## 2026-09-17
 
 如何せんmacのfinderは使いづらいので、代替となるfile managerでおすすめはないか、gptに相談してみた。
@@ -27,7 +38,7 @@ macOS 27, golden gateで、ghosttyのtab表示にバグがある問題が前々�
 claude max 20xで5h limitの問題は解決したが、あまりにも使いすぎて早くもweekly limit usageに到達してしまった.
 仕方なくcreditを追加で買って使用していたが、都度課金は割高すぎて割に合わない.
 
-githubのstatsをみると、ここ1週間近くて24M lines近くの実装をしていたらしい。
+githubのstatsをみると、ここ1週間で24M lines近く実装していたらしい。
 今日で一区切りついたものの、少々燃え尽きた感がある.
 
 ## 2026-09-15
@@ -55,12 +66,12 @@ teslaがroadstarをいよいよ発売するそう。2018にプレスリリース
 
 昼頃帰国.
 今思うとイタリアで全く"AI"の2文字を見かけなかった.
-勿論、観光地にしか訪れていないから、というのもあると思うが、誰もAIに関して全く関心がないかのような雰囲をやんわりと感じた.
+勿論、観光地にしか訪れていないから、というのもあると思うが、誰もAIに関して全く関心がないかのような雰囲気をやんわりと感じた.
 
 ## 2026-09-11
 
 昨日のrome -> helsinkiのflightは結局6hの遅れとなり, helsinki -> Osaka のフライトに乗れず、自動的に次の日の便に振替となった。
-ということでFinnairの全額持ちでhelsinki直結のホテルに一泊し、今日は朝からHelsinkiの中心地の方に出かけて少し観光した.
+ということでFinnairの全額持ちでhelsinki airport 直結のホテルに一泊し、今日は朝からHelsinkiの中心地の方に出かけて少し観光した.
 日差しがキツく残暑が非常に厳しいイタリアと違って、Helsinkiは最高気温16°Cほどで冷たい風が心地よかった.
 
 ## 2026-09-10
