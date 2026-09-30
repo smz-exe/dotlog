@@ -1,5 +1,14 @@
 # log
 
+## 2026-09-30
+
+今日も夕方まで研究関連のことをして、夜はgolf rangeに向かった。
+昨日よりもアイアンはマシになった。
+
+[Neil Armstrong Space Prize](https://www.purdue.edu/newsroom/2026/Q3/falcon-9-booster-landing-team-receives-first-neil-armstrong-space-prize-for-reusable-rocket-research/)と呼ばれる賞で Falcon 9 booster landing teamが受賞したらしい。
+そして、そのなかにYoshiaki Kuwataさんという方を見つけた。
+kuwataさんは MIT PhD -> JPL -> SpaceXといった経歴のようで 本当にrespectしかない. Falcon 9 のlandingは本当にengineeringのmasterpiceだと思う.
+
 ## 2026-09-29
 
 夕方まで研究周りのことをしていて、その後golf rangeに向かった.
