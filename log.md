@@ -1,5 +1,10 @@
 # log
 
+## 2026-10-15
+
+今日は研究室all-handsで "Weight-sparse transformers have interpretable circuts" という論文の紹介をした。
+L0制約によってattention内のchannelも、その並びに意味があり、token embeddingから、logitの算出まで一貫してcomputaitonを追跡できるのは興味深い.
+
 ## 2026-10-14
 
 今日は銀座あたりで昼頃まで勉強したあと、午後は、豊洲、勝鬨の方まで散歩しつつ、その辺りで作業なり何なりをしていた。
