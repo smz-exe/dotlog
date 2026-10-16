@@ -1,5 +1,9 @@
 # log
 
+## 2026-10-16
+
+Is this real?
+
 ## 2026-10-15
 
 今日は研究室all-handsで "Weight-sparse transformers have interpretable circuts" という論文の紹介をした。
