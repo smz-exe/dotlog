@@ -1,5 +1,10 @@
 # log
 
+## 2026-11-05
+
+応援する場合において、"ファイト"というのは和製英語であるのは知っていたが、"ファイティン"が、韓国語の"파이팅(fighting)"からきていて、所謂Konglishであったことは初めて知った。
+なので、韓国独自のKonglishが、さらに和製用語になったのが”ファイティン”なのらしい.[reddit](https://www.reddit.com/r/BeginnerKorean/comments/1svi46i/did_you_know_that_in_korea_the_word_%ED%99%94%EC%9D%B4%ED%8C%85_hwaiting/)
+
 ## 2026-11-04
 
 今日は早朝からテスト勉強.
