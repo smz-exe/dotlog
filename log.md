@@ -1,5 +1,12 @@
 # log
 
+## 2026-11-10
+
+discordがrustでアプリを書き直した話をyoutubeにアップロードしていた[link](https://www.youtube.com/watch?v=y1PDr15raAA).
+何でもかんでもrustで書き直すjokeもあるが、それにしても起動時間がかなり高速化されていて興味深い.
+
+"rewrite discord in rust, make no mistakes"
+
 ## 2026-11-09
 
 再びテニスをしたい気運が高まってきたので、空いているコートをひたすら探しているが、どこもかしこも埋まってしまっている,,
