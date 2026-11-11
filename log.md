@@ -1,5 +1,11 @@
 # log
 
+## 2026-11-11
+
+podcast "Acquired" の Trader Joe's の回 [link](https://www.acquired.fm/episodes/trader-joes)が非常に面白い。
+1950代中頃、Texas で7-Eleven (もちろんオリジナルのUSの7-Eleven)がスケールアップをしていたころ、Joeがこのコンビニエンスストアモデルをcopy&pasteしようと考えたらしい。
+意外なところで繋がりがあったとは.
+
 ## 2026-11-10
 
 discordがrustでアプリを書き直した話をyoutubeにアップロードしていた[link](https://www.youtube.com/watch?v=y1PDr15raAA).
