@@ -1,5 +1,12 @@
 # log
 
+## 2026-11-12
+
+研究等々していた。
+
+bar examで司法試験という意味なのは初めて知った.
+be called to the barで、弁護士になるという意味らしい.
+
 ## 2026-11-11
 
 podcast "Acquired" の Trader Joe's の回 [link](https://www.acquired.fm/episodes/trader-joes)が非常に面白い。
