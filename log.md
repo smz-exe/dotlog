@@ -1,5 +1,12 @@
 # log
 
+## 2026-11-21
+
+今まで、GTA, grand theft auto が何を表しているのか知らなかったのだが、これは grand theft automobile で自動車窃盗罪という犯罪名そのものを表していたらしい。
+grand theftで、重窃盗罪で、その種類がautomobile(auto) ということらしい。今ままでずっと謎に思っていた、どうでもいいことが解消された。
+
+罪名なので、実際にニュースなどでも、"He was arrested on suspicion of grand theft auto"のようにでてくる表現らしい.
+
 ## 2026-11-20
 
 研究発表の予稿作成.
