@@ -1,5 +1,16 @@
 # log
 
+## 2026-11-22
+
+久々に友人のgit logを見ていた.
+
+> Compensation for my long absence here
+
+apple t-shritをちゃんと持って行っているのはスルーするとして、どうやら元気でやっているらしい。天気も良さそうで何より.
+彼からpenny stockを紹介されても多分買わないと思うけど、逆に自分は彼になんでも売りつけられると思う. なんてね
+
+Sell me this ,,, ah, _Apple Pencil_?
+
 ## 2026-11-21
 
 今まで、GTA, grand theft auto が何を表しているのか知らなかったのだが、これは grand theft automobile で自動車窃盗罪という犯罪名そのものを表していたらしい。
